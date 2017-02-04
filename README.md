@@ -40,7 +40,7 @@
   XVim hasn't confirmed the compatibility with your Xcode, Version X.X
   Do you want to compile XVim with support Xcode Version X.X at your own risk? 
   ```
-  Press y if you want to use XVim with your Xcode version (even it is not confirmed it works)
+  Press y if you want to use XVim with your Xcode version (even if it is not confirmed it works)
   
   3. Create `.xvimrc` as you need and restart your Xcode. 
 
